@@ -19,7 +19,7 @@
     "predeploy": "npm run build", 
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://jbeach32.github.io/Gateway/",
+  "homepage": "https://jbeach32.github.io/Gateway",
   "eslintConfig": {
     "extends": [
       "react-app",
